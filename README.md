@@ -21,4 +21,4 @@ The `Human_Activity_Recognition_with_Smartphones.ipynb` notebook icludes my work
  
 Best reults delivered by the RBF SVC model and this the confusion matrix result:
 
-![RBF SVC predictions Confusion Matrix](/Images/RBF-SVC-predictions-Confusion-Matrix.png)
+<img src= "Images/RBF%20SVC%20predictions%20Confusion%20Matrix.png" height="600">
