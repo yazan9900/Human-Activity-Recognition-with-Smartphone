@@ -2,6 +2,8 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/TRoboto/datacamp-downloader/blob/master/LICENSE)
 
 The Human Activity Recognition database was built from the recordings of 30 study participants performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. The objective is to classify activities into one of the six activities performed.
+[Kaggle link](https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones)
+
 
 Activites studied in this database are:
   - STANDING
